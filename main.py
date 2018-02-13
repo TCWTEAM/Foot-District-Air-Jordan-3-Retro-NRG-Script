@@ -79,7 +79,7 @@ def main():
             email = "{}+{}@gmail.com".format(realemail, fullprefix)
         else:
             prefix = names.get_first_name()
-            prefixp2 = radnint(111, 9999)
+            prefixp2 = randint(111, 9999)
             prefixp2 = str(prefixp2)
             fullprefix = prefix + prefixp2
             email = "{}@{}".format(fullprefix, domain)
