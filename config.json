@@ -1,0 +1,13 @@
+{
+  "emailjig":"gmail or catchall",
+  "gmailadd":"if using gmail",
+  "domain":"if using catchall",
+  "randomname":"true",
+  "name":"if randomname false put your full name here",
+  "randominsta":"true",
+  "insta":"if random insta false put your insta here",
+  "useproxies":"true or false",
+  "gender":"male or female",
+  "num":"num of entries",
+  "password":"pass to create accs with"
+}

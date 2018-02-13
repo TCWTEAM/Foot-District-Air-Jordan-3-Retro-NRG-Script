@@ -1,0 +1,8 @@
+{
+  "genrandomphone":"true",
+  "phonenum":"if u dont want to gen phone num set genrandomphone to false and put ur number here",
+  "addressline1":"",
+  "StateCode":"see statecode.txt",
+  "ZipCode":"",
+  "City":""
+}
